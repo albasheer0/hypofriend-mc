@@ -200,6 +200,9 @@ export default {
       loans: null,
     };
   },
+async mounted(){
+await this.submitForm()
+},
   computed: {
     // to resolve the real Estate Commission input
     realEstateCommissionResolver() {
