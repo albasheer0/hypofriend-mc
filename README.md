@@ -12,9 +12,7 @@ Email: albasheer0@icloud.com
 
 ## Architecture
 
-<p>The application follows a simple architecture where the components are organized in a modular way. The main App.vue component is responsible for rendering child components and passing down props and events. The form fields are divided into individual components, and the validation logic is implemented using vuetify rules.
-
-    If this feature were part of a larger application, it would be essential to keep the code modular and easy to maintain. One potential challenge could be managing state across multiple components, which could be solved by using a state management library like Vuex. but for this implementation, it would have been an overdo</p>
+<p>The application follows a simple architecture where the components are organized in a modular way. The main App.vue component is responsible for rendering child components and passing down props and events. The form fields are divided into individual components, and the validation logic is implemented using vuetify rules. If this feature were part of a larger application, it would be essential to keep the code modular and easy to maintain. One potential challenge could be managing state across multiple components, which could be solved by using a state management library like Vuex. but for this implementation, it would have been an overdo</p>
 
 ## Browser and Device Support
 <p>The application is designed to support modern web browsers and devices. I have tested it on the latest versions of Chrome, Firefox, Safari, and Edge. As for devices, the application is responsive and should work well on desktops, tablets, and mobile phones.</p>
